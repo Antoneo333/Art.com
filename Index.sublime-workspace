@@ -1,0 +1,668 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"login",
+				"Login"
+			],
+			[
+				"Lo",
+				"login"
+			],
+			[
+				"ii",
+				"inline"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fla",
+				"float"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bg",
+				"bg\tbackground: #${1:000};"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch"
+			],
+			[
+				"mysqli_c",
+				"mysqli_connect"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"e",
+				"Email"
+			],
+			[
+				"satan",
+				"satan_number"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"se",
+				"section_2_w"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"alli",
+				"align-self"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"badc",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"fra",
+				"border-bottom-left-radius"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"http"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/openserver/domains/Art.com/css/style.css",
+			"settings":
+			{
+				"buffer_size": 346,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/openserver/domains/Art.com/Index.html",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"fom",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				" package co",
+				"Package Control: Remove Package"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"php",
+				"PHP CodeBeautifier"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 438.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/openserver/domains/Art.com/Index.html",
+		"/C/openserver/domains/Art.com/css/bootstrap.css",
+		"/C/openserver/domains/Art.com/css/style.css",
+		"/C/xampp/htdocs/porn.yes/style.css",
+		"/D/DEV_WEB/PHP/gallery/startbootstrap-simple-sidebar-gh-pages/startbootstrap-simple-sidebar-gh-pages/index.html",
+		"/D/DEV_WEB/PHP/public_html/index.html",
+		"/C/Users/Antoneo/AppData/Local/Temp/Rar$DI60.504/bootstrap.css",
+		"/C/Users/Antoneo/Desktop/Posts-Export-2017-May-17-1316.xml",
+		"/C/Users/Antoneo/AppData/Local/Temp/Rar$DI80.368/Readme.txt",
+		"/C/xampp/htdocs/porn.yes/Registration.php",
+		"/C/xampp/htdocs/porn.yes/log_reg.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Antoneo/Desktop/hosts",
+		"/D/DEV_WEB/PHP/Study/inside.sql",
+		"/C/Users/Antoneo/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/README.md",
+		"/C/Users/Antoneo/AppData/Roaming/Sublime Text 3/Packages/phpcbf/Default (Windows).sublime-keymap",
+		"/C/Users/Antoneo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/porn.yes/index.php",
+		"/C/xampp/htdocs/porn.yes/Includes/db.php",
+		"/C/xampp/htdocs/porn.yes/log_reg.html",
+		"/D/DEV_WEB/HTML_CSS/I/html/main.css",
+		"/D/DEV_WEB/HTML_CSS/I/html/home.html",
+		"/C/xampp/htdocs/porn.yes/registration.php",
+		"/C/xampp/htdocs/porn.yes/Registration.html",
+		"/C/xampp/htdocs/porn.yes/Include/db.php",
+		"/C/xampp/htdocs/Gallery_1/Include/db.php",
+		"/C/xampp/htdocs/Gallery_1/index.php",
+		"/C/xampp/htdocs/Gallery_1/!.html",
+		"/C/xampp/htdocs/Gallery_1/registration.php",
+		"/C/xampp/htdocs/Gallery_1/Registration.php",
+		"/C/xampp/htdocs/Gallery_1/!.css",
+		"/C/xampp/htdocs/Gallery_1/1.php",
+		"/D/DEV_WEB/PHP/Study/index.php",
+		"/C/Users/Antoneo/Desktop/localhost.sql",
+		"/C/xampp/htdocs/Gallery_1/напоминалка.html",
+		"/D/DEV_WEB/PHP/Study/напоминалка.html",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/watches/Type.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/watches/Band & Cordon.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/watches/Housing.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/watches/Movement.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Music/Brand.txt",
+		"/C/Program Files (x86)/Steam/steamapps/common/CaesarIA/stdout.txt",
+		"/C/Users/Antoneo/AppData/Local/Temp/2094.tmp.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/Features.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/Moto/Damaged Area.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/Camera.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Sports/Bicycles/Brand.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Sports/Bicycles/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/watches/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/Lenses/Focal Length.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/Lenses/Lens Brand.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/Connection.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Music/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/Feature.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/Lenses/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/Megapixel.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cameras/cameras Screen size.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/color.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/Сolor.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/!all.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/color",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/Front camera.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/Internal memory.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/Screen size.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/OS.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/Screen size",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/Cell Phones/OS",
+		"/C/Users/Antoneo/Desktop/Data Entries/Moto/Rental.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/class/phone.txt",
+		"/C/Users/Antoneo/Dropbox/volkan/Data Entries/class/phone.txt",
+		"/K/Методы оптимизации/MO_GuideNo-5_AppendixWithCodes_Ver-2_17pages_2015.10.03.txt",
+		"/C/Users/Antoneo/Desktop/phone.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/land/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Food & Drinking.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Facade.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/External Features.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Environmental Activities.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Accessible Housing.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Social.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Residence Type.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Plant Activities.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Nearliness.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Meetings & Conventions.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Interior Features.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Scene.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Transportation.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Аренда/Rental.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Security_Truck.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Hardware_Truck.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Classic_Cars_Features.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Boats_Features.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Damaged Area.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Discipline.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/External Hardware.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Internal Hardware.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Multimedia.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Moto_Security.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Moto_Accessories.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/musical_Instruments.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Security.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Sport Type.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Type of Moto.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Experience.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Аренда/1.txt",
+		"/C/Users/Antoneo/Desktop/Boath.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/Security_truck",
+		"/C/Users/Antoneo/Desktop/Boats.txt",
+		"/C/Users/Antoneo/Desktop/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/транспорт/RVS.txt",
+		"/C/Users/Antoneo/Desktop/транспорт/Classic_Cars_Features.txt",
+		"/C/Users/Antoneo/Desktop/транспорт/classc.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/All.txt",
+		"/J/Drive/507/kptfdw.js",
+		"/G/ООП/timer.txt",
+		"/G/ООП/lab  stack.txt",
+		"/G/ООП/Новый текстовый документ.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/!!!.txt",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Plant Activities",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Environmental Activities",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Food & Drinking",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Scene",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Residence Type",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Transportation",
+		"/C/Users/Antoneo/Desktop/Data Entries/Real Estate/Nearliness"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"content-wra",
+			"wrapp",
+			"wrap",
+			"wrapper",
+			"sm",
+			"rese",
+			"/a>",
+			";\n",
+			"\";\n",
+			"%;\n",
+			"'",
+			">\n",
+			"_srslide_title",
+			"''",
+			"Zmeja",
+			"skorostGame",
+			"STENA",
+			"KONEC",
+			"Igra",
+			"snake",
+			"jabloko",
+			"gaduka",
+			"fire",
+			"\t",
+			" \t",
+			"section section",
+			"section section_2_w",
+			"text_ce",
+			"tex",
+			"arrow",
+			">\n",
+			"arr",
+			"inl",
+			"block",
+			"min",
+			"text_center",
+			"bac",
+			"\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/openserver/domains/Art.com/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/openserver/domains/Art.com/Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
